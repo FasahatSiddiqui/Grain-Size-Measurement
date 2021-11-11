@@ -1,7 +1,7 @@
 # Grain-Size-Measurement
 The designed GCM alorithm allows the user to draw boundary of all grains in one go. Next, it automatically measures size and equivalent diameter and save results in .csv format.
 
-A GSM.exe format file can be sent to user upon request to measure grain size without installing python and its packages.
+A GSM.exe format file has been add under my new repository "GSM". The GSM.exe. file measure grain size without installing python and its packages.
 
 
 # Steps for grain size measurement
